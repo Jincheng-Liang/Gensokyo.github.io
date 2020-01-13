@@ -11,8 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Personal Information
+## Name: Jincheng Liang(Chinese)/Peter Liang(English)
+## Educational Background: undergraduate student in Sun Yat-sen Univ.
+## Major: Computer science
+## E-mail: 1450628354@qq.com
 ### Header 3
 
 - Bulleted
